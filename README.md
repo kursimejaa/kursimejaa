@@ -20,7 +20,7 @@ Deskripsi Singkat
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kursimejaa&theme=github_dark) <br/>
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/milikmu)) [![My Skills](https://skillicons.dev/icons?i=instagram)](milikmu)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/milikmu) [![My Skills](https://skillicons.dev/icons?i=instagram)](milikmu)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
