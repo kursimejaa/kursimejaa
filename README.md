@@ -20,12 +20,12 @@ Deskripsi Singkat
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kursimejaa&theme=github_dark) <br/>
 
 ## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](Link Linkedin) [![My Skills](https://skillicons.dev/icons?i=instagram)](Link IG)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([Link Linkedin](https://www.linkedin.com/in/milikmu)) [![My Skills](https://skillicons.dev/icons?i=instagram)](milikmu)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Github Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo_ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
