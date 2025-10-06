@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=NamaKamuv&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=NamaKamu&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 # Hi 👋, I'm Nama
 Deskripsi Singkat
